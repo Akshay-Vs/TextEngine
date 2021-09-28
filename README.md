@@ -1,2 +1,3 @@
 # TextEngine
-A  simple engine for text based adventure games
+A one hour build
+simple engine for text based adventure games
